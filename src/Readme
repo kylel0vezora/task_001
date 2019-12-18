@@ -10,3 +10,5 @@ test fetch
 test only pull
 
 test pull 2nd
+
+test fetch>pull
