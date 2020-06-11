@@ -13,9 +13,7 @@ test pull 2nd
 
 test fetch>pull
 
-<<<<<<< HEAD
 test by account kylelove***
-=======
 
-test fetch 2nd
->>>>>>> f5d59d0590694a8d122c1aa6aee632520cff34bf
+
+test1 branch change
